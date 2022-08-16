@@ -37,8 +37,11 @@ body{
     height: 70px;
     width: 343px;
     background-color: lavender;
-
+    display: flex;
+    font-size: 30px;
+    align-items: center;
     border-radius: 10px;
+    padding: 0 20px;
 }
 
 button{
